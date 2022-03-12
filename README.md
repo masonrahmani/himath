@@ -1,6 +1,7 @@
 
 
 ## Clean Archeticture (Flutter Firebase)
+### Complete clean coded monitized flutter and firebase math app
 
 
 | <img src="https://github.com/masonrahmani/himath/blob/main/Screenshot_20220312_093108_com.deepbrainy.himath.jpg" width="250"> | <img src="https://github.com/masonrahmani/himath/blob/main/Screenshot_20220312_093224_com.deepbrainy.himath.jpg" width="250"> |

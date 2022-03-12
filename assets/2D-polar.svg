@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="Euler (copy).svg"
+    viewBox="0 0 487.06 445.79"
+    version="1.1"
+    inkscape:version="0.48.3.1 r9886"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="24"
+      fit-margin-left="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="776"
+      inkscape:window-maximized="1"
+      inkscape:zoom="1.3436716"
+      inkscape:window-x="55"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="229.40129"
+      inkscape:cy="222.89671"
+      fit-margin-top="0"
+      fit-margin-right="0"
+      fit-margin-bottom="0"
+      inkscape:window-width="1225"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <defs
+      id="defs4"
+    >
+    <marker
+        id="DotM"
+        refY="0"
+        refX="0"
+        style="overflow:visible"
+        orient="auto"
+        inkscape:stockid="DotM"
+      >
+      <path
+          id="path4927"
+          inkscape:connector-curvature="0"
+          style="stroke:#000000;stroke-width:1pt;fill-rule:evenodd"
+          transform="matrix(.4 0 0 .4 2.96 .4)"
+          d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z"
+      />
+    </marker
+    >
+    <marker
+        id="Arrow1Lend"
+        refY="0"
+        refX="0"
+        style="overflow:visible"
+        orient="auto"
+        inkscape:stockid="Arrow1Lend"
+      >
+      <path
+          id="path3841"
+          d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+          style="stroke:#000000;stroke-width:1pt;fill-rule:evenodd"
+          inkscape:connector-curvature="0"
+          transform="matrix(-.8 0 0 -.8 -10 0)"
+      />
+    </marker
+    >
+    <marker
+        id="Arrow1Lstart"
+        refY="0"
+        refX="0"
+        style="overflow:visible"
+        orient="auto"
+        inkscape:stockid="Arrow1Lstart"
+      >
+      <path
+          id="path3838"
+          d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+          style="stroke:#000000;stroke-width:1pt;fill-rule:evenodd"
+          transform="matrix(.8 0 0 .8 10 0)"
+          inkscape:connector-curvature="0"
+      />
+    </marker
+    >
+    <marker
+        id="Arrow1Lend2"
+        refY="0"
+        refX="0"
+        style="overflow:visible"
+        orient="auto"
+        inkscape:stockid="Arrow1Lend2"
+      >
+      <path
+          id="path4979"
+          d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+          style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;fill:#ff0000"
+          inkscape:connector-curvature="0"
+          transform="matrix(-.8 0 0 -.8 -10 0)"
+      />
+    </marker
+    >
+    <marker
+        id="Arrow1LendJ"
+        refY="0"
+        refX="0"
+        style="overflow:visible"
+        orient="auto"
+        inkscape:stockid="Arrow1LendJ"
+      >
+      <path
+          id="path4982"
+          d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+          style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;fill:#ff0000"
+          inkscape:connector-curvature="0"
+          transform="matrix(-.8 0 0 -.8 -10 0)"
+      />
+    </marker
+    >
+  </defs
+  >
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      transform="translate(-41.665 -197.72)"
+      inkscape:groupmode="layer"
+    >
+    <g
+        id="g3571"
+        transform="matrix(.81 0 0 .81 32.64 27.892)"
+      >
+      <path
+          id="path3291"
+          d="m413.64 358.7 77.207-77.207"
+          style="marker-end:url(#Arrow1Lend);stroke:#000000;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4079"
+          style="marker-end:url(#Arrow1Lend);stroke:#000000;fill:none"
+          d="m412.99 358.7-77.21-77.2"
+          inkscape:transform-center-x="39.992632"
+          inkscape:transform-center-y="-39.992636"
+          inkscape:connector-curvature="0"
+      />
+      <g
+          id="g4724"
+          style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+          xml:space="preserve"
+          ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+          transform="matrix(1.3122 -2.2728 -2.2728 -1.3122 1697.9 1652.6)"
+          stroke-miterlimit="10.433"
+          ns0:text="$\\hat{\\rho}$"
+        >
+<polygon
+            id="polygon4726"
+            style="stroke-width:0;fill:#000000"
+            points="227.98 662.6 228.16 662.78 226.83 664.13 225.5 662.78 225.68 662.6 226.83 663.61"
+        />
+<path
+            id="path4728"
+            style="stroke-width:0;fill:#000000"
+            inkscape:connector-curvature="0"
+            d="m223.76 655.52v-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01h-0.01v-0.01-0.01-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01c0-0.15 0.11-0.27 0.28-0.27 0.21 0 0.33 0.18 0.35 0.21 0.05 0.09 0.37 1.42 0.63 2.49 0.2-0.4 0.52-0.66 0.99-0.66l-0.01 0.21c-0.7 0-0.86 0.8-0.86 0.89 0 0.04 0.05 0.24 0.08 0.37 0.28 1.11 0.38 1.47 0.6 1.86 0.43 0.73 0.92 0.95 1.23 0.95 0.37 0 0.69-0.29 0.69-0.98 0-0.54-0.29-1.65-0.56-2.14-0.33-0.63-0.8-0.95-1.18-0.95l0.01-0.21c1.16 0 2.45 1.4 2.45 2.88 0 1.05-0.66 1.62-1.39 1.62-0.96 0-2.01-1-2.3-2.21z"
+        />
+</g
+      >
+      <g
+          id="g4886"
+          xml:space="preserve"
+          ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+          transform="matrix(2.6244 0 0 -2.6244 -249.78 2000.8)"
+          stroke-miterlimit="10.433"
+          style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+          ns0:text="$\\hat{\\phi}$"
+        >
+<polygon
+            id="polygon4888"
+            style="stroke-width:0;fill:#000000"
+            points="228.55 665.41 227.23 666.76 225.89 665.41 226.07 665.23 227.23 666.24 228.37 665.23"
+        />
+<path
+            id="path4890"
+            style="stroke-width:0;fill:#000000"
+            inkscape:connector-curvature="0"
+            d="m227.78 663.89v0.01 0.01 0.01h0.01v0.01 0.01 0.01 0.01l0.01 0.02v0.01 0.01l0.01 0.01v0.01 0.01c0 0.01 0 0.1-0.12 0.1-0.1 0-0.11-0.03-0.15-0.2l-0.58-2.29c-1.58-0.05-3.04-1.37-3.04-2.73 0-0.94 0.7-1.73 1.91-1.79l0.05 0.21c-0.6 0.03-1.31 0.38-1.31 1.38 0 1.19 0.85 2.58 2.33 2.71l-1.02-4.09-0.05-0.21c-0.08-0.31-0.15-0.63-0.23-0.94-0.12-0.46-0.22-0.84-0.22-0.87 0-0.1 0.07-0.11 0.12-0.11s0.07 0.01 0.1 0.04c0.02 0.02 0.08 0.26 0.11 0.4l0.38 1.48 0.05 0.21 1.02 4.09c0.76-0.04 1.33-0.5 1.33-1.37 0-1.18-0.86-2.6-2.35-2.72l-0.05-0.21c1.6 0.04 3.04 1.39 3.04 2.72 0 0.78-0.52 1.7-1.91 1.8z"
+        />
+</g
+      >
+      <path
+          id="path4962"
+          d="m407.42 353.16 5.929-5.929 5.6022 5.6022"
+          style="stroke:#000000;stroke-width:1px;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4964"
+          inkscape:transform-center-x="-55.300905"
+          inkscape:connector-curvature="0"
+          style="marker-end:url(#Arrow1LendJ);stroke:#ff0000;fill:none"
+          d="m413.84 359.2h109.19"
+      />
+      <path
+          id="path4966"
+          d="m413.14 358.5v-109.19"
+          style="marker-end:url(#Arrow1Lend2);stroke:#ff0000;fill:none"
+          inkscape:transform-center-y="-55.300905"
+          inkscape:connector-curvature="0"
+      />
+      <g
+          id="g5539"
+          xml:space="preserve"
+          ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+          transform="matrix(2.916 0 0 -2.916 -117.99 2285)"
+          stroke-miterlimit="10.433"
+          style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+          ns0:text="$\\hat{x}$"
+        >
+<polygon
+            id="polygon5541"
+            style="stroke-width:0;fill:#000000"
+            points="225.4 662.6 226.55 663.61 227.7 662.6 227.88 662.78 226.55 664.13 225.22 662.78"
+        />
+<path
+            id="path5543"
+            style="stroke-width:0;fill:#000000"
+            inkscape:connector-curvature="0"
+            d="m226.76 660.23v0.03l0.01 0.03 0.01 0.03 0.01 0.04 0.01 0.04 0.01 0.04 0.01 0.04 0.02 0.05 0.01 0.04 0.02 0.05 0.02 0.05 0.02 0.05 0.02 0.05 0.03 0.05 0.02 0.05 0.03 0.05 0.03 0.05 0.03 0.04 0.03 0.05 0.04 0.04 0.04 0.05 0.04 0.04 0.04 0.04 0.04 0.03 0.05 0.03 0.05 0.03 0.02 0.01 0.03 0.02 0.02 0.01 0.03 0.01 0.03 0.01h0.03l0.03 0.01 0.02 0.01h0.04 0.03l0.03 0.01h0.03c0.05 0 0.29 0 0.5-0.13-0.28-0.05-0.48-0.3-0.48-0.54 0-0.16 0.11-0.35 0.38-0.35 0.22 0 0.54 0.18 0.54 0.58 0 0.52-0.59 0.66-0.93 0.66-0.58 0-0.93-0.53-1.04-0.76-0.25 0.66-0.79 0.76-1.08 0.76-1.03 0-1.6-1.29-1.6-1.53 0-0.1 0.1-0.1 0.12-0.1 0.08 0 0.11 0.02 0.13 0.11 0.34 1.05 0.99 1.3 1.33 1.3 0.19 0 0.54-0.09 0.54-0.67 0-0.31-0.17-0.97-0.54-2.36-0.16-0.62-0.51-1.04-0.94-1.04-0.06 0-0.29 0-0.5 0.13 0.25 0.05 0.47 0.26 0.47 0.54 0 0.27-0.22 0.35-0.37 0.35-0.3 0-0.55-0.26-0.55-0.58 0-0.46 0.5-0.65 0.94-0.65 0.65 0 1.01 0.69 1.04 0.75 0.12-0.37 0.48-0.75 1.07-0.75 1.03 0 1.6 1.28 1.6 1.53 0 0.1-0.09 0.1-0.12 0.1-0.09 0-0.11-0.04-0.13-0.11-0.33-1.07-1.01-1.31-1.33-1.31-0.38 0-0.54 0.32-0.54 0.66 0 0.22 0.06 0.44 0.17 0.87z"
+        />
+</g
+      >
+      <g
+          id="g5726"
+          style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+          xml:space="preserve"
+          ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+          transform="matrix(2.916 0 0 -2.916 -246.04 2149.3)"
+          stroke-miterlimit="10.433"
+          ns0:text="$\\hat{y}$"
+        >
+<polygon
+            id="polygon5728"
+            style="stroke-width:0;fill:#000000"
+            points="227.75 662.6 227.93 662.78 226.6 664.13 225.27 662.78 225.45 662.6 226.6 663.61"
+        />
+<path
+            id="path5730"
+            style="stroke-width:0;fill:#000000"
+            inkscape:connector-curvature="0"
+            d="m228.27 661.02v0.01 0.01l0.01 0.02v0.01 0.01l0.01 0.01v0.01 0.01 0.01l0.01 0.01v0.01 0.01 0.01 0.01 0.01l0.01 0.01v0.01 0.01 0.01 0.01 0.01 0.01c0 0.18-0.14 0.27-0.29 0.27-0.1 0-0.26-0.06-0.35-0.21-0.02-0.05-0.1-0.36-0.14-0.54-0.07-0.26-0.14-0.53-0.2-0.79l-0.45-1.79c-0.03-0.15-0.46-0.85-1.12-0.85-0.51 0-0.62 0.44-0.62 0.81 0 0.46 0.17 1.07 0.51 1.95 0.16 0.4 0.2 0.51 0.2 0.71 0 0.45-0.32 0.82-0.82 0.82-0.94 0-1.31-1.45-1.31-1.53 0-0.1 0.1-0.1 0.12-0.1 0.1 0 0.11 0.02 0.16 0.17 0.27 0.94 0.67 1.24 1 1.24 0.08 0 0.25 0 0.25-0.32 0-0.25-0.1-0.51-0.17-0.7-0.39-1.05-0.57-1.61-0.57-2.08 0-0.89 0.62-1.18 1.21-1.18 0.39 0 0.73 0.16 1.01 0.44-0.13-0.51-0.25-1-0.65-1.53-0.26-0.33-0.64-0.62-1.1-0.62-0.13 0-0.58 0.03-0.75 0.41 0.16 0 0.29 0 0.43 0.12 0.1 0.09 0.19 0.22 0.19 0.41 0 0.31-0.26 0.35-0.36 0.35-0.23 0-0.56-0.16-0.56-0.65s0.44-0.86 1.05-0.86c1.03 0 2.05 0.9 2.33 2.02z"
+        />
+</g
+      >
+      <path
+          id="path3001-8"
+          sodipodi:rx="24.712673"
+          sodipodi:ry="24.712673"
+          style="stroke:#000000;fill:none"
+          sodipodi:type="arc"
+          d="m-39.393 135.17c10.3 5.447 15.396 17.348 12.23 28.561"
+          sodipodi:open="true"
+          transform="translate(481.67 195.39)"
+          sodipodi:cy="157.02055"
+          sodipodi:cx="-50.946133"
+          sodipodi:end="6.5583746"
+          sodipodi:start="5.1988462"
+      />
+      <path
+          id="path3969-6"
+          style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:1px;fill:none"
+          inkscape:connector-curvature="0"
+          d="m443.39 331.48 7.4026 7.0196"
+      />
+      <g
+          id="g4282-5"
+          style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+          xml:space="preserve"
+          ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+          transform="matrix(2.6244 0 0 -2.6244 -126.68 2071.3)"
+          stroke-miterlimit="10.433"
+          ns0:text="$\\phi$"
+        >
+<path
+            id="path4284-9"
+            style="stroke-width:0;fill:#000000"
+            inkscape:connector-curvature="0"
+            d="m227.78 663.89v0.01 0.01 0.01h0.01v0.01 0.01 0.01 0.01l0.01 0.02v0.01 0.01l0.01 0.01v0.01 0.01c0 0.01 0 0.1-0.12 0.1-0.1 0-0.11-0.03-0.15-0.2l-0.58-2.29c-1.58-0.05-3.04-1.37-3.04-2.73 0-0.94 0.7-1.73 1.91-1.79l0.05 0.21c-0.6 0.03-1.31 0.38-1.31 1.38 0 1.19 0.85 2.58 2.33 2.71l-1.02-4.09-0.05-0.21c-0.08-0.31-0.15-0.63-0.23-0.94-0.12-0.46-0.22-0.84-0.22-0.87 0-0.1 0.07-0.11 0.12-0.11s0.07 0.01 0.1 0.04c0.02 0.02 0.08 0.26 0.11 0.4l0.38 1.48 0.05 0.21 1.02 4.09c0.76-0.04 1.33-0.5 1.33-1.37 0-1.18-0.86-2.6-2.35-2.72l-0.05-0.21c1.6 0.04 3.04 1.39 3.04 2.72 0 0.78-0.52 1.7-1.91 1.8z"
+        />
+</g
+      >
+    </g
+    >
+    <path
+        id="path2989"
+        sodipodi:rx="166.02374"
+        sodipodi:ry="166.02374"
+        style="fill-rule:evenodd;fill-opacity:.50196;stroke:#0000ff;fill:#d7ebc8"
+        sodipodi:type="arc"
+        d="m474.35 461.18c0 91.692-74.331 166.02-166.02 166.02-91.692 0-166.02-74.331-166.02-166.02 0-91.692 74.331-166.02 166.02-166.02 91.692 0 166.02 74.331 166.02 166.02z"
+        transform="translate(-58.855 -25.475)"
+        sodipodi:cy="461.17709"
+        sodipodi:cx="308.32983"
+    />
+    <path
+        id="path4721"
+        d="m249.47 435.71 115.8-115.81"
+        style="marker-end:url(#Arrow1Lend);marker-start:url(#DotM);stroke:#000000;fill:none"
+        inkscape:connector-curvature="0"
+    />
+    <path
+        id="path2987"
+        d="m456.78 435.7h-414.62"
+        style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+    />
+    <path
+        id="path2985"
+        style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m249.47 228.39v414.62"
+    />
+    <path
+        id="path5091"
+        d="m366.56 318.63v117.05h0.0475"
+        style="marker-end:url(#DotM);marker-start:url(#DotM);stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+    />
+    <path
+        id="path3001"
+        sodipodi:rx="24.712673"
+        sodipodi:ry="24.712673"
+        style="stroke:#000000;fill:none"
+        sodipodi:type="arc"
+        d="m-39.393 135.17c10.3 5.447 15.396 17.348 12.23 28.561"
+        sodipodi:open="true"
+        transform="translate(317.69 271.68)"
+        sodipodi:cy="157.02055"
+        sodipodi:cx="-50.946133"
+        sodipodi:end="6.5583746"
+        sodipodi:start="5.1988462"
+    />
+    <path
+        id="path3969"
+        d="m279.41 407.77 7.4026 7.0196"
+        style="marker-start:url(#Arrow1Lstart);stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+    />
+    <g
+        id="g4282"
+        xml:space="preserve"
+        ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+        transform="matrix(2.6244 0 0 -2.6244 -290.67 2147.6)"
+        stroke-miterlimit="10.433"
+        style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+        ns0:text="$\\phi$"
+      >
+<path
+          id="path4284"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m227.78 663.89v0.01 0.01 0.01h0.01v0.01 0.01 0.01 0.01l0.01 0.02v0.01 0.01l0.01 0.01v0.01 0.01c0 0.01 0 0.1-0.12 0.1-0.1 0-0.11-0.03-0.15-0.2l-0.58-2.29c-1.58-0.05-3.04-1.37-3.04-2.73 0-0.94 0.7-1.73 1.91-1.79l0.05 0.21c-0.6 0.03-1.31 0.38-1.31 1.38 0 1.19 0.85 2.58 2.33 2.71l-1.02-4.09-0.05-0.21c-0.08-0.31-0.15-0.63-0.23-0.94-0.12-0.46-0.22-0.84-0.22-0.87 0-0.1 0.07-0.11 0.12-0.11s0.07 0.01 0.1 0.04c0.02 0.02 0.08 0.26 0.11 0.4l0.38 1.48 0.05 0.21 1.02 4.09c0.76-0.04 1.33-0.5 1.33-1.37 0-1.18-0.86-2.6-2.35-2.72l-0.05-0.21c1.6 0.04 3.04 1.39 3.04 2.72 0 0.78-0.52 1.7-1.91 1.8z"
+      />
+</g
+    >
+    <g
+        id="g3094"
+        xml:space="preserve"
+        ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+        transform="matrix(2.6244 0 0 -2.6244 -313.51 2183.9)"
+        stroke-miterlimit="10.433"
+        style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+        ns0:text="$\\rho \\cos \\phi$"
+      >
+<path
+          id="path3096"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m223.76 655.52v-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01h-0.01v-0.01-0.01-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01c0-0.15 0.11-0.27 0.28-0.27 0.21 0 0.33 0.18 0.35 0.21 0.05 0.09 0.37 1.42 0.63 2.49 0.2-0.4 0.52-0.66 0.99-0.66l-0.01 0.21c-0.7 0-0.86 0.8-0.86 0.89 0 0.04 0.05 0.24 0.08 0.37 0.28 1.11 0.38 1.47 0.6 1.86 0.43 0.73 0.92 0.95 1.23 0.95 0.37 0 0.69-0.29 0.69-0.98 0-0.54-0.29-1.65-0.56-2.14-0.33-0.63-0.8-0.95-1.18-0.95l0.01-0.21c1.16 0 2.45 1.4 2.45 2.88 0 1.05-0.66 1.62-1.39 1.62-0.96 0-2.01-1-2.3-2.21z"
+      />
+<path
+          id="path3098"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m231.41 659.4v0.08 0.07 0.07l0.01 0.07v0.07l0.01 0.07v0.06l0.01 0.06 0.01 0.06 0.01 0.06 0.01 0.06 0.02 0.06 0.02 0.11 0.03 0.1 0.04 0.1 0.03 0.09 0.04 0.09 0.04 0.08 0.05 0.07 0.04 0.07 0.05 0.07 0.05 0.06 0.05 0.05 0.05 0.05 0.06 0.05 0.05 0.04 0.06 0.04 0.05 0.03 0.06 0.03 0.06 0.03 0.05 0.02 0.06 0.02 0.06 0.01 0.05 0.02 0.06 0.01h0.05l0.05 0.01h0.05c0.09 0 0.72-0.01 1.07-0.37-0.41-0.03-0.47-0.33-0.47-0.46 0-0.26 0.18-0.45 0.45-0.45 0.26 0 0.46 0.16 0.46 0.46 0 0.68-0.75 1.06-1.52 1.06-1.24 0-2.16-1.07-2.16-2.3 0-1.27 0.99-2.25 2.14-2.25 1.33 0 1.65 1.19 1.65 1.29s-0.1 0.1-0.13 0.1c-0.09 0-0.11-0.04-0.13-0.1-0.29-0.93-0.93-1.05-1.3-1.05-0.53 0-1.4 0.43-1.4 2.03z"
+      />
+<path
+          id="path3100"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m239.36 659.36-0.01 0.12-0.01 0.12-0.01 0.11-0.02 0.12-0.02 0.11-0.03 0.11-0.04 0.11-0.04 0.1-0.04 0.1-0.05 0.1-0.05 0.1-0.06 0.09-0.06 0.1-0.07 0.08-0.07 0.09-0.07 0.08-0.08 0.08-0.08 0.07-0.08 0.07-0.09 0.06-0.09 0.07-0.09 0.05-0.09 0.05-0.1 0.05-0.1 0.04-0.1 0.04-0.11 0.03-0.1 0.03-0.11 0.02-0.11 0.01-0.11 0.01h-0.11l-0.01-0.21c0.44 0 0.86-0.22 1.12-0.65s0.26-1 0.26-1.38c0-0.36 0-0.89-0.22-1.33-0.22-0.45-0.66-0.74-1.15-0.74-0.43 0-0.87 0.21-1.14 0.67-0.25 0.44-0.25 1.04-0.25 1.4 0 0.39 0 0.92 0.24 1.36 0.27 0.46 0.74 0.67 1.14 0.67l0.01 0.21c-1.25 0-2.21-1.08-2.21-2.32 0-1.28 1.03-2.23 2.2-2.23 1.2 0 2.21 0.97 2.21 2.23z"
+      />
+<path
+          id="path3102"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m241.72 659.16h0.02l0.03-0.01h0.03l0.03-0.01 0.03-0.01 0.04-0.01 0.04-0.01 0.04-0.01 0.04-0.01 0.04-0.01 0.04-0.02 0.04-0.02 0.05-0.01 0.04-0.03 0.05-0.02 0.04-0.02 0.04-0.03 0.05-0.03 0.04-0.03 0.04-0.03 0.03-0.03 0.04-0.04 0.03-0.04 0.04-0.04 0.02-0.05 0.02-0.02 0.01-0.03 0.01-0.02 0.01-0.03 0.01-0.02 0.01-0.03 0.01-0.03 0.01-0.02v-0.03l0.01-0.03v-0.03-0.04l0.01-0.03v-0.03c0-0.51-0.35-0.91-1.13-0.91-0.83 0-1.19 0.57-1.38 1.42-0.03 0.12-0.04 0.16-0.14 0.16-0.13 0-0.13-0.07-0.13-0.25v-1.31c0-0.16 0-0.23 0.11-0.23 0.05 0 0.06 0.01 0.25 0.19 0.02 0.02 0.02 0.04 0.2 0.23 0.44-0.41 0.88-0.42 1.09-0.42 1.15 0 1.6 0.66 1.6 1.38 0 0.52-0.3 0.82-0.41 0.94-0.33 0.32-0.72 0.4-1.14 0.48-0.56 0.11-1.22 0.23-1.22 0.81 0 0.35 0.26 0.76 1.11 0.76 1.1 0 1.15-0.9 1.17-1.21 0.01-0.08 0.1-0.08 0.11-0.08 0.14 0 0.14 0.05 0.14 0.23v1.01c0 0.17 0 0.23-0.11 0.23-0.06 0-0.07 0-0.2-0.11-0.03-0.04-0.13-0.13-0.17-0.16-0.38 0.27-0.79 0.27-0.94 0.27-1.21 0-1.59-0.66-1.59-1.22 0-0.34 0.16-0.62 0.43-0.84 0.32-0.26 0.6-0.32 1.31-0.46z"
+      />
+<path
+          id="path3104"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m249.59 663.89v0.01 0.01l0.01 0.01v0.01 0.01 0.01l0.01 0.01v0.02 0.01 0.01h0.01v0.01 0.01 0.01c0 0.01 0 0.1-0.12 0.1-0.1 0-0.11-0.03-0.15-0.2l-0.58-2.29c-1.58-0.05-3.04-1.37-3.04-2.73 0-0.94 0.7-1.73 1.91-1.79l0.05 0.21c-0.6 0.03-1.31 0.38-1.31 1.38 0 1.19 0.85 2.58 2.33 2.71l-1.02-4.09-0.05-0.21c-0.08-0.31-0.15-0.63-0.23-0.94-0.12-0.46-0.22-0.84-0.22-0.87 0-0.1 0.07-0.11 0.12-0.11s0.07 0.01 0.1 0.04c0.02 0.02 0.08 0.26 0.11 0.4l0.38 1.48 0.05 0.21 1.02 4.09c0.76-0.04 1.33-0.5 1.33-1.37 0-1.18-0.86-2.6-2.35-2.72l-0.05-0.21c1.6 0.04 3.04 1.39 3.04 2.72 0 0.78-0.52 1.7-1.91 1.8z"
+      />
+</g
+    >
+    <g
+        id="g3222"
+        style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+        xml:space="preserve"
+        ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+        transform="matrix(0 -2.6244 -2.6244 0 2114.2 1013.1)"
+        stroke-miterlimit="10.433"
+        ns0:text="$\\rho \\sin \\phi$"
+      >
+<path
+          id="path3224"
+          d="m223.76 655.52v-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01h-0.01v-0.01-0.01-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01c0-0.15 0.11-0.27 0.28-0.27 0.21 0 0.33 0.18 0.35 0.21 0.05 0.09 0.37 1.42 0.63 2.49 0.2-0.4 0.52-0.66 0.99-0.66l-0.01 0.21c-0.7 0-0.86 0.8-0.86 0.89 0 0.04 0.05 0.24 0.08 0.37 0.28 1.11 0.38 1.47 0.6 1.86 0.43 0.73 0.92 0.95 1.23 0.95 0.37 0 0.69-0.29 0.69-0.98 0-0.54-0.29-1.65-0.56-2.14-0.33-0.63-0.8-0.95-1.18-0.95l0.01-0.21c1.16 0 2.45 1.4 2.45 2.88 0 1.05-0.66 1.62-1.39 1.62-0.96 0-2.01-1-2.3-2.21z"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+<path
+          id="path3226"
+          d="m232.31 659.16h0.02l0.03-0.01h0.03l0.03-0.01 0.03-0.01 0.04-0.01 0.04-0.01 0.04-0.01 0.04-0.01 0.04-0.01 0.04-0.02 0.05-0.02 0.04-0.01 0.04-0.03 0.05-0.02 0.04-0.02 0.04-0.03 0.05-0.03 0.04-0.03 0.04-0.03 0.04-0.03 0.03-0.04 0.03-0.04 0.04-0.04 0.02-0.05 0.02-0.02 0.01-0.03 0.01-0.02 0.01-0.03 0.01-0.02 0.01-0.03 0.01-0.03 0.01-0.02v-0.03l0.01-0.03v-0.03-0.04l0.01-0.03v-0.03c0-0.51-0.35-0.91-1.13-0.91-0.83 0-1.19 0.57-1.38 1.42-0.03 0.12-0.04 0.16-0.14 0.16-0.13 0-0.13-0.07-0.13-0.25v-1.31c0-0.16 0-0.23 0.11-0.23 0.05 0 0.06 0.01 0.25 0.19 0.02 0.02 0.02 0.04 0.2 0.23 0.44-0.41 0.88-0.42 1.09-0.42 1.15 0 1.6 0.66 1.6 1.38 0 0.52-0.29 0.82-0.41 0.94-0.33 0.32-0.72 0.4-1.14 0.48-0.56 0.11-1.22 0.23-1.22 0.81 0 0.35 0.26 0.76 1.11 0.76 1.1 0 1.15-0.9 1.17-1.21 0.01-0.08 0.1-0.08 0.12-0.08 0.13 0 0.13 0.05 0.13 0.23v1.01c0 0.17 0 0.23-0.11 0.23-0.05 0-0.07 0-0.2-0.11-0.03-0.04-0.13-0.13-0.17-0.16-0.38 0.27-0.79 0.27-0.94 0.27-1.21 0-1.59-0.66-1.59-1.22 0-0.34 0.16-0.62 0.43-0.84 0.32-0.26 0.6-0.32 1.31-0.46z"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+<path
+          id="path3228"
+          d="m235.93 661.63-1.39-0.11v-0.31c0.65 0 0.74-0.06 0.74-0.55v-2.67c0-0.45-0.11-0.45-0.78-0.45v-0.31c0.32 0.01 0.86 0.04 1.1 0.04 0.34 0 0.69-0.03 1.03-0.04v0.31c-0.66 0-0.7 0.05-0.7 0.44z"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+<path
+          id="path3230"
+          d="m235.97 663.35v0.03 0.03 0.03l-0.01 0.03v0.02l-0.01 0.03-0.01 0.03-0.01 0.02-0.01 0.02-0.01 0.03-0.02 0.02-0.01 0.02-0.02 0.02-0.01 0.02-0.02 0.02-0.02 0.02-0.01 0.01-0.02 0.02-0.02 0.01-0.03 0.02-0.02 0.01-0.02 0.01-0.02 0.01-0.02 0.01-0.03 0.01-0.02 0.01-0.03 0.01h-0.02l-0.03 0.01h-0.02-0.03-0.02c-0.31 0-0.53-0.27-0.53-0.53s0.22-0.52 0.53-0.52c0.27 0 0.52 0.21 0.52 0.52z"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+<path
+          id="path3232"
+          d="m238.03 660.65v-2.66c0-0.45-0.1-0.45-0.77-0.45v-0.31c0.35 0.01 0.85 0.04 1.12 0.04 0.26 0 0.78-0.03 1.12-0.04v0.31c-0.67 0-0.78 0-0.78 0.45v1.83c0 1.03 0.71 1.59 1.34 1.59s0.74-0.54 0.74-1.11v-2.31c0-0.45-0.11-0.45-0.78-0.45v-0.31c0.35 0.01 0.86 0.04 1.13 0.04 0.26 0 0.77-0.03 1.11-0.04v0.31c-0.52 0-0.76 0-0.77 0.3v1.9c0 0.85 0 1.16-0.31 1.52-0.14 0.17-0.47 0.37-1.05 0.37-0.72 0-1.19-0.43-1.47-1.05v1.05l-1.4-0.11v-0.31c0.7 0 0.77-0.07 0.77-0.56z"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+<path
+          id="path3234"
+          d="m248.48 663.89v0.01h0.01v0.01 0.01 0.01 0.01 0.01h0.01v0.01 0.02 0.01h0.01v0.01 0.01 0.01 0.01c0 0.01 0 0.1-0.12 0.1-0.1 0-0.1-0.03-0.15-0.2l-0.57-2.29c-1.58-0.05-3.05-1.37-3.05-2.73 0-0.94 0.7-1.73 1.91-1.79l0.05 0.21c-0.59 0.03-1.31 0.38-1.31 1.38 0 1.19 0.86 2.58 2.34 2.71l-1.03-4.09-0.05-0.21c-0.08-0.31-0.15-0.63-0.23-0.94-0.11-0.46-0.21-0.84-0.21-0.87 0-0.1 0.07-0.11 0.12-0.11s0.06 0.01 0.09 0.04c0.02 0.02 0.08 0.26 0.11 0.4l0.38 1.48 0.05 0.21 1.03 4.09c0.75-0.04 1.32-0.5 1.32-1.37 0-1.18-0.85-2.6-2.35-2.72l-0.05-0.21c1.6 0.04 3.05 1.39 3.05 2.72 0 0.78-0.53 1.7-1.91 1.8z"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+</g
+    >
+    <g
+        id="g3514"
+        style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+        xml:space="preserve"
+        ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+        transform="matrix(2.6244 0 0 -2.6244 -291.05 2094.7)"
+        stroke-miterlimit="10.433"
+        ns0:text="$\\rho$"
+      >
+<path
+          id="path3516"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m223.76 655.52v-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01h-0.01v-0.01-0.01-0.01-0.01l-0.01-0.01v-0.01-0.01-0.01-0.01c0-0.15 0.11-0.27 0.28-0.27 0.21 0 0.33 0.18 0.35 0.21 0.05 0.09 0.37 1.42 0.63 2.49 0.2-0.4 0.52-0.66 0.99-0.66l-0.01 0.21c-0.7 0-0.86 0.8-0.86 0.89 0 0.04 0.05 0.24 0.08 0.37 0.28 1.11 0.38 1.47 0.6 1.86 0.43 0.73 0.92 0.95 1.23 0.95 0.37 0 0.69-0.29 0.69-0.98 0-0.54-0.29-1.65-0.56-2.14-0.33-0.63-0.8-0.95-1.18-0.95l0.01-0.21c1.16 0 2.45 1.4 2.45 2.88 0 1.05-0.66 1.62-1.39 1.62-0.96 0-2.01-1-2.3-2.21z"
+      />
+</g
+    >
+    <g
+        id="g3102"
+        xml:space="preserve"
+        ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+        transform="matrix(2.916 0 0 -2.916 -409.3 2126.7)"
+        stroke-miterlimit="10.433"
+        style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+        ns0:text="$y$"
+      >
+<path
+          id="path3105"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m228.27 661.02v0.01 0.01l0.01 0.02v0.01 0.01l0.01 0.01v0.01 0.01 0.01l0.01 0.01v0.01 0.01 0.01 0.01 0.01l0.01 0.01v0.01 0.01 0.01 0.01 0.01 0.01c0 0.18-0.14 0.27-0.29 0.27-0.1 0-0.26-0.06-0.35-0.21-0.02-0.05-0.1-0.36-0.14-0.54-0.07-0.26-0.14-0.53-0.2-0.79l-0.45-1.79c-0.03-0.15-0.46-0.85-1.12-0.85-0.51 0-0.62 0.44-0.62 0.81 0 0.46 0.17 1.07 0.51 1.95 0.16 0.4 0.2 0.51 0.2 0.71 0 0.45-0.32 0.82-0.82 0.82-0.94 0-1.31-1.45-1.31-1.53 0-0.1 0.1-0.1 0.12-0.1 0.1 0 0.11 0.02 0.16 0.17 0.27 0.94 0.67 1.24 1 1.24 0.08 0 0.25 0 0.25-0.32 0-0.25-0.1-0.51-0.17-0.7-0.39-1.05-0.57-1.61-0.57-2.08 0-0.89 0.62-1.18 1.21-1.18 0.39 0 0.73 0.16 1.01 0.44-0.13-0.51-0.25-1-0.65-1.53-0.26-0.33-0.64-0.62-1.1-0.62-0.13 0-0.58 0.03-0.75 0.41 0.16 0 0.29 0 0.43 0.12 0.1 0.09 0.19 0.22 0.19 0.41 0 0.31-0.26 0.35-0.36 0.35-0.23 0-0.56-0.16-0.56-0.65s0.44-0.86 1.05-0.86c1.03 0 2.05 0.9 2.33 2.02z"
+      />
+</g
+    >
+    <g
+        id="content-8"
+        style="stroke:#000000;stroke-miterlimit:10.433;fill:none"
+        xml:space="preserve"
+        ns0:preamble="/home/kaumudi/Desktop/Dropbox/zinka additional files/textext/preamble.tex"
+        transform="matrix(2.916 0 0 -2.916 -184.33 2356.7)"
+        stroke-miterlimit="10.433"
+        ns0:text="$x$"
+      >
+<path
+          id="path3229"
+          style="stroke-width:0;fill:#000000"
+          inkscape:connector-curvature="0"
+          d="m226.76 660.23v0.03l0.01 0.03 0.01 0.03 0.01 0.04 0.01 0.04 0.01 0.04 0.01 0.04 0.02 0.05 0.01 0.04 0.02 0.05 0.02 0.05 0.02 0.05 0.02 0.05 0.03 0.05 0.02 0.05 0.03 0.05 0.03 0.05 0.03 0.04 0.03 0.05 0.04 0.04 0.04 0.05 0.04 0.04 0.04 0.04 0.04 0.03 0.05 0.03 0.05 0.03 0.02 0.01 0.03 0.02 0.02 0.01 0.03 0.01 0.03 0.01h0.03l0.03 0.01 0.02 0.01h0.04 0.03l0.03 0.01h0.03c0.05 0 0.29 0 0.5-0.13-0.28-0.05-0.48-0.3-0.48-0.54 0-0.16 0.11-0.35 0.38-0.35 0.22 0 0.54 0.18 0.54 0.58 0 0.52-0.59 0.66-0.93 0.66-0.58 0-0.93-0.53-1.04-0.76-0.25 0.66-0.79 0.76-1.08 0.76-1.03 0-1.6-1.29-1.6-1.53 0-0.1 0.1-0.1 0.12-0.1 0.08 0 0.11 0.02 0.13 0.11 0.34 1.05 0.99 1.3 1.33 1.3 0.19 0 0.54-0.09 0.54-0.67 0-0.31-0.17-0.97-0.54-2.36-0.16-0.62-0.51-1.04-0.94-1.04-0.06 0-0.29 0-0.5 0.13 0.25 0.05 0.47 0.26 0.47 0.54 0 0.27-0.22 0.35-0.37 0.35-0.3 0-0.55-0.26-0.55-0.58 0-0.46 0.5-0.65 0.94-0.65 0.65 0 1.01 0.69 1.04 0.75 0.12-0.37 0.48-0.75 1.07-0.75 1.03 0 1.6 1.28 1.6 1.53 0 0.1-0.09 0.1-0.12 0.1-0.09 0-0.11-0.04-0.13-0.11-0.33-1.07-1.01-1.31-1.33-1.31-0.38 0-0.54 0.32-0.54 0.66 0 0.22 0.06 0.44 0.17 0.87z"
+      />
+</g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >2D Polar</dc:title
+        >
+        <dc:date
+          >2012-07-16T09:01:08</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/171206/2d-polar-by-zinka-171206</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >zinka</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >chart</rdf:li
+            >
+            <rdf:li
+              >diagram</rdf:li
+            >
+            <rdf:li
+              >math</rdf:li
+            >
+            <rdf:li
+              >mathematics</rdf:li
+            >
+            <rdf:li
+              >maths</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
